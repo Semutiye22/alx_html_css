@@ -214,14 +214,22 @@
     float: right;
   }
   
-  .nav {
+  .nav
+  {
     display: flex;
     padding: 0;
     list-style: none;
     text-align: center;
   }
-  
-  .nav .nav-item {
+
+  .nav-item + .nav-item
+  {
+    margin: 0002rem;
+  }
+
+  .nav .nav-item 
+
+  {
     margin: 0002rem;
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);

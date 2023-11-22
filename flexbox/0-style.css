@@ -181,7 +181,7 @@
   /* Grid
       ============================= */
 
-      .row
+      .Grid .row
 
     {
         display:flex;
