@@ -226,13 +226,13 @@
   .nav .nav-item + .nav-item  
   
   {
-    margin: var(--nav-item-margin);
+    margin: var(0002rem);
   }
 
   .nav .nav-item 
 
   {
-    margin: 0002rem;
+   
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
