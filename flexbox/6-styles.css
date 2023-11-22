@@ -210,7 +210,8 @@
   /* Navbar
       ============================= */
   
-  .navbar-menu {
+  .navbar-menu
+   {
     float: right;
   }
   
